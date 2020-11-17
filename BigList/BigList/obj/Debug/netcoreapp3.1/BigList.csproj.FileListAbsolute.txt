@@ -1,0 +1,11 @@
+C:\Users\DSU\Documents\GitHub\BigList-C#\BigList\BigList\bin\Debug\netcoreapp3.1\BigList.exe
+C:\Users\DSU\Documents\GitHub\BigList-C#\BigList\BigList\bin\Debug\netcoreapp3.1\BigList.deps.json
+C:\Users\DSU\Documents\GitHub\BigList-C#\BigList\BigList\bin\Debug\netcoreapp3.1\BigList.runtimeconfig.json
+C:\Users\DSU\Documents\GitHub\BigList-C#\BigList\BigList\bin\Debug\netcoreapp3.1\BigList.runtimeconfig.dev.json
+C:\Users\DSU\Documents\GitHub\BigList-C#\BigList\BigList\bin\Debug\netcoreapp3.1\BigList.dll
+C:\Users\DSU\Documents\GitHub\BigList-C#\BigList\BigList\bin\Debug\netcoreapp3.1\BigList.pdb
+C:\Users\DSU\Documents\GitHub\BigList-C#\BigList\BigList\obj\Debug\netcoreapp3.1\BigList.csprojAssemblyReference.cache
+C:\Users\DSU\Documents\GitHub\BigList-C#\BigList\BigList\obj\Debug\netcoreapp3.1\BigList.AssemblyInfoInputs.cache
+C:\Users\DSU\Documents\GitHub\BigList-C#\BigList\BigList\obj\Debug\netcoreapp3.1\BigList.AssemblyInfo.cs
+C:\Users\DSU\Documents\GitHub\BigList-C#\BigList\BigList\obj\Debug\netcoreapp3.1\BigList.dll
+C:\Users\DSU\Documents\GitHub\BigList-C#\BigList\BigList\obj\Debug\netcoreapp3.1\BigList.pdb
